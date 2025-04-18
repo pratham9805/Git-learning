@@ -9,3 +9,5 @@ const a = document.querySelector('p')
 function balancechecker(){
     console.log(balance);
 }
+
+console.log("BugFixed");
